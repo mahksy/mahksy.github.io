@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ham on Mahksy&#39;s website</title>
+    <link>/ham/</link>
+    <description>Recent content in Ham on Mahksy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 05 Aug 2020 12:59:16 +0200</lastBuildDate>
+    
+	<atom:link href="/ham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Licence</title>
+      <link>/ham/licence/</link>
+      <pubDate>Wed, 05 Aug 2020 14:55:13 +0200</pubDate>
+      
+      <guid>/ham/licence/</guid>
+      <description>Me and my amateur radio licence I shold probably tell you why and how i got my amateur radio licence!</description>
+    </item>
+    
+  </channel>
+</rss>

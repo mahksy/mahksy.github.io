@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mahksy&#39;s Homepage on Mahksy&#39;s website</title>
+    <link>/</link>
+    <description>Recent content in Mahksy&#39;s Homepage on Mahksy&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2020 19:47:10 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Licence</title>
+      <link>/ham/licence/</link>
+      <pubDate>Wed, 05 Aug 2020 14:55:13 +0200</pubDate>
+      
+      <guid>/ham/licence/</guid>
+      <description>Me and my amateur radio licence I shold probably tell you why and how i got my amateur radio licence!</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Mon, 03 Aug 2020 18:58:57 +0200</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Welcome to my website! I&amp;rsquo;m trying to build a website here to show a few projects of mine and may someone will find them useful someday!
+For writing this website i&amp;rsquo;m using HUGO, which is a really nice markdown to html framework, check it out here!
+Thank you for reading, i&amp;rsquo;ll be on my way and onto builing this thing!
+Alright, lemme use this as a test page :D
+ codeblocks are a really nice thing right?</description>
+    </item>
+    
+  </channel>
+</rss>
