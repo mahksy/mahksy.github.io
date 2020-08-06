@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Mahksy&#39;s website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Aug 2020 18:58:57 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2020 18:59:52 +0200</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Update</title>
+      <link>/posts/update/</link>
+      <pubDate>Thu, 06 Aug 2020 18:59:52 +0200</pubDate>
+      
+      <guid>/posts/update/</guid>
+      <description>Updates on my website! I&amp;rsquo;m coming along good with git and my website, learing a few things about igt and hugo, works!</description>
+    </item>
     
     <item>
       <title>First</title>

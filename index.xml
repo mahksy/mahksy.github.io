@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>Update</title>
+      <link>/posts/update/</link>
+      <pubDate>Thu, 06 Aug 2020 18:59:52 +0200</pubDate>
+      
+      <guid>/posts/update/</guid>
+      <description>Updates on my website! I&amp;rsquo;m coming along good with git and my website, learing a few things about igt and hugo, works!</description>
+    </item>
+    
+    <item>
       <title>Licence</title>
       <link>/ham/licence/</link>
       <pubDate>Wed, 05 Aug 2020 14:55:13 +0200</pubDate>

@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/posts/</loc>
+    <lastmod>2020-08-06T18:59:52+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/update/</loc>
+    <lastmod>2020-08-06T18:59:52+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ham/licence/</loc>
     <lastmod>2020-08-05T14:55:13+02:00</lastmod>
   </url>
@@ -29,11 +39,6 @@
   
   <url>
     <loc>/posts/first/</loc>
-    <lastmod>2020-08-03T18:58:57+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
     <lastmod>2020-08-03T18:58:57+02:00</lastmod>
   </url>
   
